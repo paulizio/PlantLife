@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PlantLife</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="plantIconCredit">
+        <a href="https://www.iconfinder.com/iconsets/spring-2-1">Spring-2 icon set</a> by <a href="https://www.iconfinder.com/atifarshad"> Avatar smart/icons</a>
+        Changes made:
+        <ul>
+            <li> Changed color of background</li>
+            <li> Added circle around icon</li>
+        </ul>
+        Licensed under <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>
+    </string>
+    <string name="weatherIconCredit">
+        <a href="https://www.iconfinder.com/iconsets/tiny-weather-1">The Tiny Weather set icon set</a> by <a href="https://www.iconfinder.com/Spot"> Paolo Valzania</a>
+        <br></br>
+        Licensed under <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>
+    </string>
+</resources>
